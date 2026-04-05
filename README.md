@@ -200,18 +200,25 @@ Open in browser: http://localhost:4200
 Screenshots
 
 
-Add screenshots of login, dashboard, order, and bill pages)
-![Login Page]<img width="1342" height="672" alt="Screenshot 2026-04-05 221724" src="https://github.com/user-attachments/assets/d418b6c2-c705-4986-a1f1-7e74652f3c61" />
+## Screenshots
 
-<img width="1365" height="625" alt="Screenshot 2026-04-05 223625" src="https://github.com/user-attachments/assets/165332c6-64c6-41b0-8648-c1ecca5af231" />
-<img width="1313" height="629" alt="Screenshot 2026-04-05 223639" src="https://github.com/user-attachments/assets/c44222be-b9f3-466a-b53c-32745cb60f81" />
-img width="1335" height="624" alt="Screenshot 2026-04-05 223648" src="https://github.com/user-attachments/assets/dabefe49-22d3-4bfa-931f-5366d5beb604" />
-<<img width="1341" height="590" alt="Screenshot 2026-04-05 223659" src="https://github.com/user-attachments/assets/19b5b9d1-8532-4ba4-90df-50e1de0f6c55" />
-<img width="1333" height="573" alt="Screenshot 2026-04-05 223716" src="https://github.com/user-attachments/assets/4524c79f-9272-4f79-be18-6665a50667e2" />
-<img width="1357" height="575" alt="Screenshot 2026-04-05 223723" src="https://github.com/user-attachments/assets/265547a3-9691-4b91-913d-ec9164e246c4" />
-<img width="1336" height="558" alt="Screenshot 2026-04-05 223735" src="https://github.com/user-attachments/assets/75a0f45e-f542-4147-95d1-7017f10d94d4" />
-<img width="1289" height="533" alt="Screenshot 2026-04-05 223746" src="https://github.com/user-attachments/assets/d8f60745-d0ab-42bb-a8f2-04fb0949ed41" />
-<img width="1356" height="547" alt="Screenshot 2026-04-05 223751" src="https://github.com/user-attachments/assets/14d961f9-36e8-4411-9dfe-acbdca831c52" />
+### Login Page
+![Login Page](https://github.com/user-attachments/assets/d418b6c2-c705-4986-a1f1-7e74652f3c61)
+
+### Dashboard Page
+![Dashboard Page](https://github.com/user-attachments/assets/165332c6-64c6-41b0-8648-c1ecca5af231)
+
+### Order Page
+![Order Page 1](https://github.com/user-attachments/assets/c44222be-b9f3-466a-b53c-32745cb60f81)
+![Order Page 2](https://github.com/user-attachments/assets/dabefe49-22d3-4bfa-931f-5366d5beb604)
+![Order Page 3](https://github.com/user-attachments/assets/19b5b9d1-8532-4ba4-90df-50e1de0f6c55)
+
+### Bill Page
+![Bill Page 1](https://github.com/user-attachments/assets/4524c79f-9272-4f79-be18-6665a50667e2)
+![Bill Page 2](https://github.com/user-attachments/assets/265547a3-9691-4b91-913d-ec9164e246c4)
+![Bill Page 3](https://github.com/user-attachments/assets/75a0f45e-f542-4147-95d1-7017f10d94d4)
+![Bill Page 4](https://github.com/user-attachments/assets/d8f60745-d0ab-42bb-a8f2-04fb0949ed41)
+![Bill Page 5](https://github.com/user-attachments/assets/14d961f9-36e8-4411-9dfe-acbdca831c52)
 
 Author
 
