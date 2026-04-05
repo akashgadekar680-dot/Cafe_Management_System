@@ -201,7 +201,9 @@ Screenshots
 
 
 Add screenshots of login, dashboard, order, and bill pages)
-![Login Page] <img width="1365" height="625" alt="Screenshot 2026-04-05 223625" src="https://github.com/user-attachments/assets/165332c6-64c6-41b0-8648-c1ecca5af231" />
+![Login Page]<img width="1342" height="672" alt="Screenshot 2026-04-05 221724" src="https://github.com/user-attachments/assets/d418b6c2-c705-4986-a1f1-7e74652f3c61" />
+
+<img width="1365" height="625" alt="Screenshot 2026-04-05 223625" src="https://github.com/user-attachments/assets/165332c6-64c6-41b0-8648-c1ecca5af231" />
 <img width="1313" height="629" alt="Screenshot 2026-04-05 223639" src="https://github.com/user-attachments/assets/c44222be-b9f3-466a-b53c-32745cb60f81" />
 img width="1335" height="624" alt="Screenshot 2026-04-05 223648" src="https://github.com/user-attachments/assets/dabefe49-22d3-4bfa-931f-5366d5beb604" />
 <<img width="1341" height="590" alt="Screenshot 2026-04-05 223659" src="https://github.com/user-attachments/assets/19b5b9d1-8532-4ba4-90df-50e1de0f6c55" />
