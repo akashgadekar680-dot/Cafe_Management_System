@@ -1,9 +1,10 @@
 # Cafe Management System
 
 A full-stack **Cafe Management System** for managing products, categories, orders, bills, and users efficiently. Built with Angular (frontend), Spring Boot (backend), and MySQL (database).
-images/Screenshot 2026-04-05 221650.png
----
 
+---
+images/Screenshot 2026-04-05 221650.png
+![Login Page](images/Screenshot_2026-04-05_221650.png)
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Features](#features)
